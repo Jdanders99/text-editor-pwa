@@ -9,8 +9,7 @@
 [License](#license)  
 
 ## Description
-Just Another Text Editor (J.A.T.E.) is just like the title states. It runs just like any text editor and includes formatting for JavaScript  
-syntax so you can practice your JavaScript from the browser. Also capable of installing the app and can run while offline!
+Just Another Text Editor (J.A.T.E.) is just like the title states. It runs just like any text editor and includes formatting for JavaScript syntax so you can practice your JavaScript from the browser. Also capable of installing the app and can run while offline!
 
 ## Installation
 Open J.A.T.E. in your browser,  
